@@ -1,10 +1,10 @@
 body{
-background-color: darkcyan;
+background-image: url(fuochi.jpg);
 
 }
 
 div{
-background-color: darkorchid;
+background-color: coral;
 width: 600px;
 text-align: center;
 margin: auto;
