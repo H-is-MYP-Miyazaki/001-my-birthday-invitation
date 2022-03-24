@@ -4,11 +4,12 @@ background-image: url(fuochi.jpg);
 }
 
 div{
-background-color: coral;
+background-color: darkgreen;
 width: 600px;
+background-color: wheat;
 text-align: center;
-margin: auto;
+margin-block-end: 20cm;
 padding: 100px 20px 30px 50px;
-border-radius: 40px;
-font-size: 20px;
+border-radius: 60px;
+font-size: 30px;
 }
